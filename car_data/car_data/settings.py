@@ -83,8 +83,8 @@ DATABASES = {
         'NAME': 'CarData',
         'USER': 'caruser',
         'PASSWORD': 'carro123',
-        'HOST': 'localhost',
-        'PORT': '',
+        'HOST': 'CMANOSALVAS955-2816.postgres.pythonanywhere-services.com',
+        'PORT': '12816',
     }
 }
 
