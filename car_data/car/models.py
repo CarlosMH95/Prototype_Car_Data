@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 class CarData(models.Model):
-    temp = models.IntegerField()
+    temp = models.FloatField()
     humidity = models.FloatField()
     latitude = models.FloatField()
     longitude = models.FloatField()
